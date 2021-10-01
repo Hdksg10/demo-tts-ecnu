@@ -53,6 +53,6 @@ conda install cudatoolkit=10.1 cudnn=7.6.5 pyaudio
 由于 tacotron2 模型较大，所以进行了压缩，使用时需要先解压缩
 
 ## 运行程序
-python tts-demo.py
+python tts.py
 正常会保存
 
